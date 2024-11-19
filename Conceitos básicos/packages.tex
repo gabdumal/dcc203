@@ -1,0 +1,37 @@
+% -----
+% Pacotes fundamentais 
+% -----
+\usepackage[utf8]{inputenc}		% Codificação do documento (conversão automática dos acentos)
+\usepackage[T1]{fontenc}		% Seleção de códigos de fonte.
+\usepackage[portuguese]{babel}	% Idioma do documento
+\usepackage{hyphenat}
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage[subentrycounter,seeautonumberlist,nonumberlist=true,acronym,nohypertypes={index}]{glossaries} % Glossário.
+\usepackage[portuguese]{todonotes}
+% -----
+
+% -----
+% Configurações dos pacotes
+% -----
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+% --- Glossaries ---
+\newglossary[ilg]{index}{ind}{idx}{\indexname}
+\newcommand*{\newterm}[2]{
+    \newglossaryentry{#1}
+    {type=index,name={#2},description={\nopostdesc}}
+}
+\makeglossaries{} % Habilite este comando para permitir a impressão dos glossários
+\loadglsentries{glossaries}
+\renewcommand*{\glsclearpage}{} % Evita quebra de página entre os glossários
+
+% --- Todonotes ---
+\setlength{\marginparwidth}{2cm}
+\presetkeys{todonotes}{inline,backgroundcolor=yellow}{}
+% -----

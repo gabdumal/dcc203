@@ -1,0 +1,33 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts{}
+
+\input{packages.tex}
+
+\begin{document}
+
+\input{pretextual.tex}
+
+\input{abstract.tex}
+
+\begin{IEEEkeywords}
+    component, formatting, style, styling, insert
+\end{IEEEkeywords}
+
+\section{Introduction}
+This document is a model and instructions for \LaTeX.
+Please observe the conference page limits.
+\cite{tortinhas}.
+
+% =====
+% ELEMENTOS PÓS-TEXTUAIS
+% =====
+% --- Referências ---
+\bibliographystyle{IEEEtran}
+\bibliography{bibliography}
+
+% --- Glossário ---
+\printglossary[type=main,style=altlist,title=Glossário]
+\printglossary[type=acronym,style=altlist,title=Lista de Abreviaturas e Siglas]
+% =====
+
+\end{document}
