@@ -30,5 +30,6 @@
   "latex-workshop.linting.chktex.enabled": true,
   "latex-workshop.linting.lacheck.enabled": true,
   "latex-workshop.view.outline.sync.viewer": true,
-  "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click"
+  "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+  "latex-workshop.linting.chktex.exec.args": ["-n19"]
 }
