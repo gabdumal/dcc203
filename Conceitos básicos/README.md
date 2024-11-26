@@ -14,9 +14,9 @@
 
 ### Vídeos
 
-- Método Científico. Rogério Anton. [Acesso](https://youtu.be/eRDBggKy0js).
-- O Método Científico. Entender. [Acesso](https://youtu.be/ib3fLWeJFSE).
-- [UVPR] Procedimentos Técnicos da Pesquisa. [Acesso](https://youtu.be/iodDhTFCMwc).
+- Método Científico. **Rogério Anton.** [Acesso](https://youtu.be/eRDBggKy0js).
+- O Método Científico. **Entender.** [Acesso](https://youtu.be/ib3fLWeJFSE).
+- [UVPR] Procedimentos Técnicos da Pesquisa. **Nead Unicentro.** [Acesso](https://youtu.be/iodDhTFCMwc).
 
 ### Outros
 
