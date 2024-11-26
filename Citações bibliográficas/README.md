@@ -15,6 +15,10 @@
 - Como formatar REFERÊNCIAS pela ABNT. **infonormas | por Jéssica Cavalcanti.** [Acesso](https://www.youtube.com/watch?v=DMQ-OYVS8NE).
 - Nova norma de CITAÇÕES DA ABNT 2023 – Explicações e exemplos passo a passo no WORD / ABNT 10520:2023. **Metodologia Descomplicada.** [Acesso](https://www.youtube.com/watch?v=UKPQ-5VzFxE).
 
+### Outros
+
+- Modelo LaTeX para conferências da SBC. [Acesso](https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr).
+
 ## Atividades
 
 ### [Avaliação por Pares - Citações Bibliográficas](https://ead.ufjf.br/mod/workshop/view.php?id=433187)
