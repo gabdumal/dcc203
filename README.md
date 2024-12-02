@@ -33,3 +33,4 @@ latexmk -synctex=1 -interaction=nonstopmode -file-line-error -outdir=.build -f -
 
 - [Conceitos básicos](Conceitos%20básicos/README.md)
 - [Citações bibliográficas](Citações%20bibliográficas/README.md)
+- [Elementos básicos de um trabalho científico](Elementos%20básicos%20de%20um%20trabalho%20científico/README.md)
