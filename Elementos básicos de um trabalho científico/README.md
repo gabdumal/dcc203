@@ -45,3 +45,30 @@
 
   - As referências mostram as obras citadas no texto.
   - Os apêndices (criados pelo autor) e os anexos (criados por outros) são opcionais. Eles contêm informações complementares que não são essenciais para a compreensão do trabalho.
+
+### Linguagem
+
+- Sete pecados capitais
+
+  - Frases longas: devem ter no máximo duas vírgulas. Se for necessário, divida-as em frases menores.
+  - Erros ortográficos: podem distrair ou confundir o leitor (e o avaliador).
+  - Erros gramaticais: se atente ao paralelismo, à concordância e à conjugação.
+  - Tradução literal: deve-se compreender as frases a adaptá-las como fizerem sentido na língua alvo.
+  - Elementos ilegíveis: prestar atenção a imagens, gráficos, esquemas, modelagens, tabelas, etc.
+  - Cópia literal: não se deve cometer plágio. Se necessário conter o conteúdo, fazer citação direta.
+  - Blablablá: não se deve escrever frases sem sentido ou que não acrescentam nada ao texto para chegar ao número de páginas exigido.
+
+- Peculiaridades
+
+  - Tempo verbal sempre no presente. O trabalho já foi feito e os resultados foram obtidos.
+    - Exceções: tempo passado para fazer referência a trabalhos anteriores; tempo passado nas conclusões para fazer referência ao texto da seção; tempo futuro para indicar os trabalhos futuros.
+  - Pronomes pessoais devem ser evitados. Utilize o sujeito indeterminado (-se) em vez de pronomes (eu, nós).
+  - Voz passiva deve ser evitada.
+  - Não indicar elementos pelos seus locais (acima, abaixo, ao lado). Utilizar o número que identifica a figura, tabela, etc. Se necessário, utilizar "anterior" e "a seguir".
+  - Siglas devem apresentar seu significado na primeira vez de uso.
+  - Não utilizar informalidades. Buscar conectivos adequados para a formalidade do texto.
+  - Evitar palavras vazias: "basicamente", "obviamente", "claramente", etc.
+  - Preferir sempre termos em português. Caso necessário, destacar o termo em outra língua com itálico.
+  - Tomar cuidado com vícios de linguagem do português quando produzir textos em inglês.
+    - Evitar o uso do "it" para se referir a algo que já foi mencionado.
+    - Em inglês, é permitido utilizar o pronome pessoal "we" e suas formas. Dessa forma, evite frases como "The study described in this article shows that X..." e prefira " Our study shows X ...".
