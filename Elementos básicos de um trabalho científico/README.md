@@ -24,4 +24,24 @@
 
 ## Notas
 
-- O resumo deve seguir essa estrutura: objetivo, metodologia, resultados e conclusões.
+### Estrutura
+
+- Elementos pré-textuais
+
+  - O título deve ser conciso e informativo.
+  - A listagem dos autores deve conter as instituições às quais estão vinculados e seus e-mails.
+  - O resumo deve seguir essa estrutura: contexto, problema (estado da arte, objetivo), resultados (contribuição, relevância) e conclusões. Tem entre 100 e 250 palavras.
+  - Deve conter entre três e cinco palavras-chave. Na verdade elas são termos, que podem conter mais de uma palavra.
+
+- Elementos textuais
+
+  - A introdução seguir essa estrutura: contextualização, delimitação do tema, justificativa do trabalho (importância do assunto), problema de pesquisa, objetivos, contribuições do estudo, organização do trabalho.
+  - A revisão bibliográfica deve ser dividida em tópicos. Ela apresenta recursos necessários para a compreensão do trabalho, como conceitos, teorias e modelos. Também reúne pesquisas anteriores que ajudam a contextualizar o trabalho e justificar o assunto.
+  - A metodologia deve conter a descrição do método de pesquisa e a justificativa para a escolha do método. Ela visa a permitir que outros pesquisadores reproduzam o estudo.
+  - Os resultados devem apresentar os dados coletados e sua análise. Então, deve-se comparar os resultados com os de outros trabalhos.
+  - Nas considerações finais, não se pode apresentar ideias novas ou citações. É preciso retomar os principais pontos do trabalho, citar os resultados, sumarizar as contribuições atingidas, apontar limitações e sugerir trabalhos futuros.
+
+- Elementos pós-textuais
+
+  - As referências mostram as obras citadas no texto.
+  - Os apêndices (criados pelo autor) e os anexos (criados por outros) são opcionais. Eles contêm informações complementares que não são essenciais para a compreensão do trabalho.
