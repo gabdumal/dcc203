@@ -34,3 +34,5 @@ latexmk -synctex=1 -interaction=nonstopmode -file-line-error -outdir=.build -f -
 - [Conceitos básicos](Conceitos%20básicos/README.md)
 - [Citações bibliográficas](Citações%20bibliográficas/README.md)
 - [Elementos básicos de um trabalho científico](Elementos%20básicos%20de%20um%20trabalho%20científico/README.md)
+- [Tipos de pesquisa e TVC1](Tipos%20de%20pesquisa%20e%20TVC1/README.md)
+- [Revisão bibliográfica e Revisão sistemática](Revis%C3%A3o%20bibliogr%C3%A1fica%20e%20Revis%C3%A3o%20sistem%C3%A1tica/README.md)
