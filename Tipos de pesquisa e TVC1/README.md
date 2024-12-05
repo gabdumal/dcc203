@@ -25,3 +25,20 @@
 | Fechar avaliações  | quarta-feira, 11 dez. 2024, 23:59 |
 
 ## Notas
+
+### Pesquisa Descritiva, Pesquisa Exploratória ou Explicativa? _André Fontenelle_
+
+- Classificação da pesquisa quanto à finalidade: o tipo de contribuição que o trabalho traz para a área de conhecimento.
+
+  - Teórica, quando se faz pesquisa básica.
+  - Prática, quando se faz pesquisa aplicada.
+
+- Classificação quanto aos objetivos: tipo de conhecimento que se pretende produzir.
+
+  - Descritiva. Descreve ao máximo sobre o assunto estudado, apresentando suas características e conceitos, para então relacionar variáveis e analisar dados. Se debruça sobre um tema já bem conhecido, com base em bibliografia.
+  - Exploratória. Visa a identificar melhor um fenômeno. Apresenta algo novo, e propõe problemas de pesquisa ou hipóteses. Faz-se a coleta de dados que não existem na literatura.
+  - Explicativa. Busca encontrar os fundamentos de um fenômeno, os motivos e os processos. Em geral, representa a continuação de outras pesquisas. Inova, ao criar um novo modelo teórico.
+
+### Pesquisa qualitativa: O que é? // Principais características - Pesquisa na Prática 50. _Acadêmica_
+
+### Método quantitativo – O que é e como fazer? - Pesquisa na Prática #51. _Acadêmica_
