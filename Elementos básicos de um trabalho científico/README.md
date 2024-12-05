@@ -8,8 +8,7 @@
 
 ### Vídeos
 
-- AS PARTES DE UM ARTIGO CIENTÍFICO - Conheça a estrutura de um artigo a partir do exemplo apresentado.
-  **Metodologia Descomplicada**. [Acesso](https://www.youtube.com/watch?v=MaGDsTRKMOY).
+- AS PARTES DE UM ARTIGO CIENTÍFICO - Conheça a estrutura de um artigo a partir do exemplo apresentado. **Metodologia Descomplicada**. [Acesso](https://www.youtube.com/watch?v=MaGDsTRKMOY).
 
 ## Atividades
 

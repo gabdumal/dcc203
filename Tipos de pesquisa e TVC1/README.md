@@ -2,7 +2,7 @@
 
 ## Materiais
 
-### Texto
+### Textos
 
 - Wazlawick ,R. S., Uma Reflexão sobre a Pesquisa em Ciência da Computação à Luz da Classificação das Ciências e do Método Científico, Revista de Sistemas de Informação da FSMA, n. 6, 2010. [Acesso](http://www.fsma.edu.br/si/edicao6/FSMA_SI_2010_2_Principal_1.pdf).
 - Catabriga, L., A Computação e as Classificações da Ciência, Notas de Aula - UFES, 2016. [Acesso](https://http://www.inf.ufes.br/~luciac/metpes/classificacoes-das-ciencias.pdf).
