@@ -34,11 +34,25 @@
   - Prática, quando se faz pesquisa aplicada.
 
 - Classificação quanto aos objetivos: tipo de conhecimento que se pretende produzir.
-
   - Descritiva. Descreve ao máximo sobre o assunto estudado, apresentando suas características e conceitos, para então relacionar variáveis e analisar dados. Se debruça sobre um tema já bem conhecido, com base em bibliografia.
   - Exploratória. Visa a identificar melhor um fenômeno. Apresenta algo novo, e propõe problemas de pesquisa ou hipóteses. Faz-se a coleta de dados que não existem na literatura.
   - Explicativa. Busca encontrar os fundamentos de um fenômeno, os motivos e os processos. Em geral, representa a continuação de outras pesquisas. Inova, ao criar um novo modelo teórico.
 
 ### Pesquisa qualitativa: O que é? // Principais características - Pesquisa na Prática 50. _Acadêmica_
+
+- Pressupostos
+  - Observa um fenômeno em seu contexto natural.
+  - O pesquisador é peça chave nas análises. Ele deve conhecer sobre o contexto.
+  - Depende de múltiplos métodos de coleta de dados. É necessário triangular fontes para comprovar as análises.
+  - Foca na experiência e na vivência do participante.
+- Dados
+  - O dado costuma ser um texto que descreve experiências acerca do tema.
+  - Formas de coleta: entrevistas, grupos focais, análise de documentos, observações e netnografia.
+  - Sempre mantenha os registros da coleta, por anotações ou gravações.
+  - Mantenha a ética.
+- Análise
+  - Categorização e codificação que representam as variáveis do estudo.
+  - Compara-se os dados coletados com a teoria e com a experiência do pesquisador.
+  - Os resultados são inferidos. Não é generalizável.
 
 ### Método quantitativo – O que é e como fazer? - Pesquisa na Prática #51. _Acadêmica_
