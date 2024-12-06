@@ -37,3 +37,4 @@ latexmk -synctex=1 -interaction=nonstopmode -file-line-error -outdir=.build -f -
 - [Tipos de pesquisa e TVC1](Tipos%20de%20pesquisa%20e%20TVC1/README.md)
 - [Revisão bibliográfica e Revisão sistemática](Revis%C3%A3o%20bibliogr%C3%A1fica%20e%20Revis%C3%A3o%20sistem%C3%A1tica/README.md)
 - [Definição de orientação e tema](Defini%C3%A7%C3%A3o%20de%20orienta%C3%A7%C3%A3o%20e%20tema/README.md)
+- [Plágio e ética](Plágio%20e%20ética/README.md)

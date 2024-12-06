@@ -1,5 +1,15 @@
 {
-  "cSpell.words": ["abnt"],
+  "cSpell.words": [
+    "abnt",
+    "Catabriga",
+    "Fontenelle",
+    "Harzing",
+    "Mirella",
+    "Quinquiolo",
+    "Rayyan",
+    "Wazlawick",
+    "Zotero"
+  ],
   "latex-workshop.bibtex-fields.sort.enabled": true,
   "latex-workshop.bibtex-format.sort.enabled": true,
   "latex-workshop.bibtex-format.sortby": ["author", "year-desc"],

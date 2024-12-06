@@ -4,9 +4,9 @@
 
 ### Vídeos
 
-- Plágio acadêmico - o que é e como evitar. **Barbie Arqueóloga**. [Acesso](https://www.youtube.com/watch?v=AwRF7q4UDEk).
-- Metodologia da Pesquisa: Ética e Plágio. **Natália Quinquiolo**. [Acesso](https://www.youtube.com/watch?v=2yLChHfry7s).
-- Inteligência Artificial produzindo Plágio acadêmico, e agora?. **Instituto Observatório do Direito Autoral**. [Acesso](https://www.youtube.com/watch?v=f6V-hJM2f2w).
+- Barbie Arqueóloga. **Plágio acadêmico - o que é e como evitar**. [Acesso](https://www.youtube.com/watch?v=AwRF7q4UDEk).
+- Natália Quinquiolo. **Metodologia da Pesquisa: Ética e Plágio**. [Acesso](https://www.youtube.com/watch?v=2yLChHfry7s).
+- Instituto Observatório do Direito Autoral. **Inteligência Artificial produzindo Plágio acadêmico, e agora?**. [Acesso](https://www.youtube.com/watch?v=f6V-hJM2f2w).
 
 ### Moodle
 

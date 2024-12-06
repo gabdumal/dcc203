@@ -10,15 +10,15 @@
 
 ### Textos
 
-- Dias, D. S. e Silva, M. F., Como escrever uma monografia (Parte 1 - Capítulo 1). Relatórios COPPEAD - UFRJ, 2009. [Acesso](https://ead.ufjf.br/pluginfile.php/1888322/course/section/97869/como-escrever-uma-monografia-donaldo-de-souza-dias-monica-ferreira-da-silva.pdf).
+- Dias, D. S. e Silva, M. F. **Como escrever uma monografia (Parte 1 - Capítulo 1)**. Relatórios COPPEAD - UFRJ, 2009. [Acesso](https://ead.ufjf.br/pluginfile.php/1888322/course/section/97869/como-escrever-uma-monografia-donaldo-de-souza-dias-monica-ferreira-da-silva.pdf).
 
-- Maillard, N., Escrever monografias e artigos científicos, UFRGS, 2010. [Acesso](http://www.inf.ufrgs.br/~nicolas/writing_papers_essays.html).
+- Maillard, N. **Escrever monografias e artigos científicos**, UFRGS, 2010. [Acesso](http://www.inf.ufrgs.br/~nicolas/writing_papers_essays.html).
 
 ### Vídeos
 
-- Método Científico. **Rogério Anton.** [Acesso](https://youtu.be/eRDBggKy0js).
-- O Método Científico. **Entender.** [Acesso](https://youtu.be/ib3fLWeJFSE).
-- [UVPR] Procedimentos Técnicos da Pesquisa. **Nead Unicentro.** [Acesso](https://youtu.be/iodDhTFCMwc).
+- Rogério Anton. **Método Científico**. [Acesso](https://youtu.be/eRDBggKy0js).
+- Entender. **O Método Científico**. [Acesso](https://youtu.be/ib3fLWeJFSE).
+- Nead Unicentro. **[UVPR] Procedimentos Técnicos da Pesquisa**. [Acesso](https://youtu.be/iodDhTFCMwc).
 
 ### Outros
 
@@ -34,3 +34,7 @@
 | Fechar submissões  | terça-feira, 19 nov. 2024, 23:59  |
 | Abrir avaliações   | quarta-feira, 20 nov. 2024, 00:00 |
 | Fechar avaliações  | sexta-feira, 22 nov. 2024, 23:59  |
+
+#### Arquivos
+
+- [Artigo redigido](atividades/artigo)

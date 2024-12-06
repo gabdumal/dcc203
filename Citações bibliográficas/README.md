@@ -14,8 +14,8 @@
 
 ### Vídeos
 
-- Como formatar REFERÊNCIAS pela ABNT. **infonormas | por Jéssica Cavalcanti.** [Acesso](https://www.youtube.com/watch?v=DMQ-OYVS8NE).
-- Nova norma de CITAÇÕES DA ABNT 2023 – Explicações e exemplos passo a passo no WORD / ABNT 10520:2023. **Metodologia Descomplicada.** [Acesso](https://www.youtube.com/watch?v=UKPQ-5VzFxE).
+- infonormas | por Jéssica Cavalcanti. **Como formatar REFERÊNCIAS pela ABNT.** [Acesso](https://www.youtube.com/watch?v=DMQ-OYVS8NE).
+- Metodologia Descomplicada. **Nova norma de CITAÇÕES DA ABNT 2023 – Explicações e exemplos passo a passo no WORD / ABNT 10520:2023.** [Acesso](https://www.youtube.com/watch?v=UKPQ-5VzFxE).
 
 ### Outros
 
@@ -31,3 +31,8 @@
 | Fechar submissões  | terça-feira, 26 nov. 2024, 23:59  |
 | Abrir avaliações   | quarta-feira, 27 nov. 2024, 00:00 |
 | Fechar avaliações  | domingo, 1 dez. 2024, 23:59       |
+
+#### Arquivos
+
+- [Artigo redigido](atividades/artigo)
+- [Apresentação em slides](atividades/apresentacao)
