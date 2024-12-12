@@ -131,3 +131,115 @@ Deve-se propor uma teoria que explique os resultados obtidos.
 - Contrapõe-se ao realismo científico, estes que defendem que a ciência descreve de fato a realidade.
 - Os pragmáticos assumem que não é possível saber exatamente o que é a realidade.
 - Assim, a ciência explica apenas os fenômenos observados e suas previsões são frequentemente úteis.
+
+### Objetividade
+
+Diferentes pessoas com um nível aceitável de competência devem chegar às mesmas conclusões ao analisarem os dados.
+
+Especialmente a Computação faz pouco uso do princípio da Autoridade, de forma que se aproveitam trabalhos relacionados recentes e objetivos.
+Deve-se fazer leitura crítica mesmo dos trabalhos mais consagrados.
+
+### Indução
+
+Uma situação que se sustenta em todos os casos observados se sustenta em todos os casos em geral, até que se prove o contrário ou que se tenha conhecimento que a contradiga.
+
+A **indução matemática** prova que um conjunto virtualmente infinito de objetos apresenta certa propriedade.
+Isso é feito ao definir uma regra que permita gerar todos os elementos do conjunto.
+Primeiro, prova-se que a regra é válida para um elemento inicial.
+Então, deve-se provar que a regra preserva a propriedade, ou seja, se um elemento
+_n_ a apresenta, o elemento _n+1_ também a apresentará.
+Assim, é criada uma prova formal.
+
+A **indução estrutural** é um caso mais geral, para quando há mais de uma regra de formação.
+Este princípio pode ser aplicado no _Teste de Software_, em que um objeto permanece consistente com sua especificação se as regras aplicadas sobre ele preservas as propriedades esperadas.
+
+### Refutação
+
+O princípio da _Refutação_ ou _Contradição_ estabelece que qualquer qualquer teoria científica que busca _explicar_ fatos observáveis está sempre aberta para ser invalidada caso ela não seja capaz de explicar um novo fato observado.
+
+Um estudo de caso não é capaz de criar uma regra nova, mas pode ser usado para refutar ou modificar uma teoria existente.
+
+### Coerentismo
+
+O princípio do _Coerentismo_ determina que uma teoria não explica a realidade.
+Na verdade, ela pode apenas ser coerente com os fatos observados e ser aceita por indução.
+
+### Lâmina de Occam
+
+No caso de várias teorias explicarem as mesmas observações coerentemente, deve-se preferir a mais simples entre elas.
+Esse princípio é especialmente importante quando não se pode imediatamente realizar testá-las empiricamente.
+
+## Classificação dos métodos de pesquisa
+
+Podem ser classificados quanto à natureza, aos objetivos e aos procedimentos técnicos.
+
+### Natureza
+
+#### Trabalho original
+
+Apresenta conhecimento novo a partir de observações e teorias construídas para explicá-lo.
+Ele é relevante quando tem implicação na forma como se entende os processos e sistemas ou quando tem implicações práticas.
+
+#### _Surveys_
+
+Buscam sistematizar uma área de conhecimento, usualmente indicando sua evolução histórica e estado da arte.
+Para que ele seja relevante, o autor deve ter conhecimento sólido da área.
+Também se espera que se indique causas e efeitos além daquilo que se pode ler explicitamente nos artigos consultados.
+
+### Objetivos
+
+#### Exploratória
+
+O autor não necessariamente tem uma hipótese ou um objetivo definido em mente.
+Um grande número de fenômenos é examinado, buscando anomalias que não sejam ainda conhecidas.
+
+#### Descritiva
+
+Busca-se obter dados mais consistentes sobre uma determinada realidade, e descrever sistematicamente os fatos como são.
+Caracteriza-se pelo levantamento de dados e pela aplicação de entrevistas e questionários.
+
+#### Explicativa
+
+Analisa os fatos observados, busca suas causas e explicações (fatores determinantes), criando uma teoria que explique o fenômeno.
+
+### Procedimentos técnicos
+
+#### Bibliográfica
+
+Implica no estudo de artigos, teses, livros e outras publicações usualmente disponibilizadas por editoras e indexadas.
+Supre ao pesquisador informações públicas.
+
+#### Documental
+
+Consiste na análise de documentos ou dados que não foram ainda sistematizados e publicados.
+Busca encontrar informações e padrões em documentos ainda não tratados sistematicamente.
+Um exemplo é a pesquisa em documentos de requisitos de software.
+
+#### Experimental
+
+Caracteriza-se pela manipulação de um aspecto da realidade pelo pesquisador.
+Seleciona variáveis para serem controladas pelo pesquisador e outras que serão observadas.
+A medição dessas pode levar a conclusões que as vinculem com as controladas.
+Deve usar rigorosas técnicas de amostragem e testes de hipóteses para que seus resultados sejam estatisticamente aceitáveis e generalizáveis.
+
+#### de Levantamento
+
+Dados existentes serão buscados diretamente do ambiente através de observações, medições, questionários e entrevistas.
+Depois de tabuladas, podem ser tomadas conclusões sobre causas e efeitos.
+
+#### Pesquisa-ação
+
+O pesquisador interage com os pesquisados envolvendo-se no trabalho de pesquisa de forma participativa, buscando um determinado resultado.
+
+## Ciência e Tecnologia
+
+A **Tecnologia** é aplicação de conhecimentos nas atividades práticas.
+Ela visa a transformar o mundo, e não teorizar sobre ele.
+
+Para que um trabalho seja científico, é necessário que a informação contida em si explique um pouco mais sobre o porquê das coisas funcionarem como são.
+
+Em geral, há um problema identificado para o qual não se conhece uma solução satisfatória.
+Então, cria-se uma hipótese, que pode ser testada, para resolvê-lo.
+O trabalho busca provar que a ideia empregada é válida segundo o método científico.
+
+Conforme o grau de maturidade do trabalho, mais se incorporam referências, trabalhos relacionados, comparações sistemáticas e teorias que explicam os fenômenos observados.
