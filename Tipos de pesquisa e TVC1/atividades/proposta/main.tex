@@ -1,0 +1,76 @@
+\documentclass[12pt]{article}
+
+\input{packages.tex}
+\input{glossary.tex}
+     
+\sloppy
+
+\title{Modelagem de ferramenta para geração de agentes inteligentes com uso em testes de jogos}
+
+\author{%
+    Celso Gabriel Malosto\inst{1}%
+    \and%
+    Igor de Oliveira Knop\inst{1}
+}
+\address{Departamento de Ciência da Computação, Universidade Federal de Juiz de Fora
+  (UFJF)\\
+  Rua José Lourenço Kelmer -- São Pedro -- Juiz de Fora -- MG -- Brasil
+  \email{gabriel.malosto@estudante.ufjf.br}
+}
+
+\bibliography{sbc-template}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+\end{abstract}
+
+\begin{resumo}
+
+\end{resumo}
+
+\section{Introdução}%
+\label{sec:introducao}
+
+A criação de jogos é iterativa e, de forma cíclica, faz uso de protótipos e testes para explorar sistemas e corrigir desequilíbrios~\cite{marcelo2009design, fullerton2019game}.
+Esse processo de balanceamento é complexo e conta com estudos de equilíbrio matemático, progressão e imparcialidade~\cite{romeroGameBalance2021}.
+
+Ao procedimento de coleta de dados de partidas nomeia-se \textit{playtest}.
+Eles demandam muitos recursos humanos, destacando a dificuldade de manter focado um grupo de testadores devido ao desgaste e às tarefas repetitivas~\cite{trzewiczek2017}.
+
+A fim de aprimorar o processo de desenvolvimento de jogos, propomos uma ferramenta chamada \gls{apts}.
+Ela permitirá representar jogos arbitrários e gerar agentes inteligentes capazes de realizar a fase de \textit{playtesting} de forma automatizada.
+
+Este trabalho apresenta a fundamentação teórica para o desenvolvimento da ferramenta, a proposta de implementação e a conclusões e limitações esperadas.
+
+\section{Fundamentação teórica}%
+\label{sec:fundamentacao_teorica}
+
+A fim de representar os estados de um jogo e suas transições, estudamos o método \gls{mcts}.
+Nesse método, cada estado guarda todas as informações mutáveis da partida em determinado turno.
+Eles são guardados em um nó da árvore de busca~\cite{kocsis2006bandit, coulom2006efficient}.
+
+Por sua vez, os movimentos tomados pelos jogadores levam a transições entre os nós.
+Os níveis se sucedem ciclicamente representando os jogadores do turno.
+Para um jogo de dois jogadores, um nível par representa o primeiro jogador, enquanto um nível ímpar representa o segundo~\cite{mcts-swiechowski}.
+
+A busca é realizada em um ciclo de quatro etapas: seleção de um nó folha segundo um critério, expansão desse em uma nova jogada, simulação da partida a partir daquele ponto, e retro-propagação das métricas obtidas.
+Assim, pode-se calcular métricas durante a simulação de uma partida, orientando a escolha de movimentos~\cite{mcts-swiechowski}.
+
+Pretende-se estudar o método de \gls{resnet} para aprimorar o ciclo de busca do \gls{mcts}.
+Essa classe de modelos de 
+
+\section{Proposta}%
+\label{sec:proposta}
+
+
+\section{Conclusão}%
+\label{sec:conclusao}
+
+
+\printbibliography{}
+
+\end{document}
