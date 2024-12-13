@@ -9,8 +9,6 @@
 
 \author{%
     Celso Gabriel Malosto\inst{1}%
-    \and%
-    Igor de Oliveira Knop\inst{1}
 }
 \address{Departamento de Ciência da Computação, Universidade Federal de Juiz de Fora
   (UFJF)\\
@@ -82,7 +80,16 @@ Como valor de retro-propagação, pode-se utilizar a métrica de confiança.
 O objetivo da modificação nos métodos é o treinamento de agentes inteligentes que possam jogar satisfatoriamente um jogo arbitrário a partir de aprendizado por reforço independente.
 Estes, após treinados, servirão como testadores artificiais dos jogos inseridos na ferramenta \gls{apts}.
 
-Assim, tem-se como usuários finais os \textit{designers} de jogos, que poderão utilizar linguagens de descrição de jogos para representar seus protótipos.
+Seguindo esse mesmo objetivo, foi desenvolvida a ferramenta AlphaZero, pelo braço de pesquisa DeepMind, do Google.
+Inicialmente, o modelo simulava agentes que jogavam Go.
+Esses eram treinados por aprendizado supervisionado.
+Uma evolução no modelo foi capaz de aprender o jogo por meio de aprendizado por reforço, iniciando por jogadas aleatórias~\cite{silverMasteringGameGo2016}.
+
+Os pesquisadores da DeepMind generalizaram o modelo para que ele aprendesse qualquer jogo de tabuleiro dadas as suas regras, ao que se nomeou AlphaZero.
+Os pesos e vieses são ajustados por meio de resultados obtidos de partidas simuladas entre agentes~\cite{alphazero-deepmind, silverGeneralReinforcementLearning2018}.
+
+Como fator de distinção do \gls{apts}, elenca-se os usuários finais, quais sejam os \textit{designers} de jogos.
+Eles poderão utilizar linguagens de descrição de jogos para representar seus protótipos.
 Então, a aplicação será capaz de gerar métricas sobre as partidas jogadas, como a taxa de vitórias para cada jogador, a quantidade de turnos média, entre outras.
 Espera-se assim diminuir os custos e o tempo de desenvolvimento de jogos.
 
@@ -96,8 +103,17 @@ A expectativa de ganho para área é a diminuição de custos e de tempo.
 Espera-se que os autores dos jogos possam acessar o sistema pelos navegadores de internet.
 Assim, não haverá necessidade de instalação de software adicional, nem de uso de ferramentas de linha de comando.
 
+\subsection{Finalidade}
 
+Esta pesquisa se classifica como exploratória, dado que visa a compreender os métodos de representação de jogos, de busca e de aprendizado de máquina por meio de sua experimentação no desenvolvimento da ferramenta \gls{apts}.
 
+Temos como hipótese que é possível representar jogos arbitrários ainda na fase de prototipação de forma que agentes inteligentes aprendam a jogá-los de forma satisfatória.
+Acreditamos também que a ferramenta proposta será capaz de auxiliar os autores a realizar testes automatizados e melhorar o processo de criação de jogos.
+
+Para comprovarmos a hipótese de que os agentes serão satisfatórios, pretendemos realizar experimentos e extrair métricas de jogos de informação completa e bem compreendidos, como o jogo-da-velha e o xadrez.
+Compararemos os resultados obtidos com aqueles extraídos da literatura, tanto sobre jogadores humanos, como de outros sistemas que utilizam agentes inteligentes.
+
+\subsection{Abordagem}
 
 \section{Conclusão}%
 \label{sec:conclusao}
