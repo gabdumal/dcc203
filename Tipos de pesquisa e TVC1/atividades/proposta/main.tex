@@ -44,7 +44,7 @@ Eles demandam muitos recursos humanos, destacando a dificuldade de manter focado
 A fim de aprimorar o processo de desenvolvimento de jogos, propomos uma ferramenta chamada \gls{apts}.
 Ela permitirá representar jogos arbitrários e gerar agentes inteligentes capazes de realizar a fase de \textit{playtesting} de forma automatizada.
 
-Este trabalho apresenta a fundamentação teórica para o desenvolvimento da ferramenta, a proposta de implementação e a conclusões e limitações esperadas.
+Este trabalho apresenta a fundamentação teórica para o desenvolvimento da ferramenta, a proposta de implementação, sua classificação em diferentes critérios, e a conclusões e limitações esperadas.
 
 \section{Fundamentação teórica}%
 \label{sec:fundamentacao_teorica}
@@ -61,10 +61,32 @@ A busca é realizada em um ciclo de quatro etapas: seleção de um nó folha seg
 Assim, pode-se calcular métricas durante a simulação de uma partida, orientando a escolha de movimentos~\cite{mcts-swiechowski}.
 
 Pretende-se estudar o método de \gls{resnet} para aprimorar o ciclo de busca do \gls{mcts}.
-Essa classe de modelos de 
+Essa classe de modelos de \gls{ia} é derivada das redes neurais convolucionais e aplicada primariamente em domínios de reconhecimento de imagens~\cite{he2015deep,zewen2022convolutional}.
 
 \section{Proposta}%
 \label{sec:proposta}
+
+Pretende-se adaptar o método de \gls{resnet} para inserir como entrada um estado de um jogo arbitrário.
+Para tal, deve-se transformar as informações daquele em um formato de canais retangulares, similarmente a como os canais de cores são representados em imagens.
+
+Para um jogo de tabuleiro, como o jogo-da-velha, pode-se criar um canal que guarda as posições das peças jogadas pelo primeiro jogador, outro para as peças do segundo jogador, e um terceiro para as posições vazias.
+
+Espera-se que a rede neural seja capaz de atribuir uma pontuação para cada movimento possível a partir de um estado analisado.
+Além disso, ela deve também predizer uma métrica que indica a confiança de que aquele estado levará a uma vitória.
+
+Esses dois dados são importantes para substituir a fase de simulação da \gls{mcts}.
+Todas os movimentos válidos podem ser expandidos, em vez de apenas um.
+A cada, guardar-se-á a pontuação determinadas.
+Como valor de retro-propagação, pode-se utilizar a métrica de confiança.
+
+O objetivo da modificação nos métodos é o treinamento de agentes inteligentes que possam jogar satisfatoriamente um jogo arbitrário a partir de aprendizado por reforço independente.
+Estes, após treinados, servirão como testadores artificiais dos jogos inseridos na ferramenta \gls{apts}.
+
+Assim, tem-se como usuários finais os \textit{designers} de jogos, que poderão utilizar linguagens de descrição de jogos para representar seus protótipos.
+Então, a aplicação será capaz de gerar métricas sobre as partidas jogadas, como a taxa de vitórias para cada jogador, a quantidade de turnos média, entre outras.
+Espera-se assim diminuir os custos e o tempo de desenvolvimento de jogos.
+
+
 
 
 \section{Conclusão}%
