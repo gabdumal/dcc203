@@ -26,6 +26,8 @@
 
 #### Arquivos
 
+- [Atividade](atividades/proposta)
+
 ## Notas
 
 - [Pesquisa Descritiva, Pesquisa Exploratória ou Explicativa? **Andre Fontenelle**.](notas/pesquisa_descritiva_exploratoria_explicativa.md)

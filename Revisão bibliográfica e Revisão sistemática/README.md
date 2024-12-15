@@ -11,6 +11,8 @@
 #### Textos
 
 - [Textos de apoio](https://ead.ufjf.br/mod/folder/view.php?id=429700)
+  - [Como escrever um artigo de revisão sistemática](https://ead.ufjf.br/pluginfile.php/1888353/mod_folder/content/0/Costa2022_COMO_ESCREVER_UM_ARTIGO_DE_REVISAO_SISTEM%C3%81TICA_UM_GUIA_ATUALIZADO_Capitulo_6_revisaofinal11.pdf?forcedownload=1)
+  - [Modelos de formulação da questão de investigação na prática baseada na evidência](https://ead.ufjf.br/pluginfile.php/1888353/mod_folder/content/0/Sousa2018_Variacao_PICO.pdf?forcedownload=1)
 
 #### Vídeos
 
@@ -44,3 +46,5 @@
 #### Arquivos
 
 ## Notas
+
+- [Revisão sistemática descomplicada. **Ana da Silva**.](https://ead.ufjf.br/mod/resource/view.php?id=429713)
